@@ -17,7 +17,7 @@
 
         layer_1 {
             bindings = <
-&kp ESC  &mkp LCLK     &trans  &mkp RCLK     &kp C_VOLUME_UP      &kp LS(STAR)  &trans    &trans    &trans   &trans
+&kp ESC  &trans        &trans  &trans        &kp C_VOLUME_UP      &kp LS(STAR)  &trans    &trans    &trans   &trans
 &trans   &trans        &trans  &trans        &kp C_VOLUME_DOWN    &kp BSPC      &kp BSPC  &kp RET   &kp DEL  &kp SEMI
 &trans   &kp LEFT_WIN  &trans  &trans        &kp K_MUTE           &trans        &kp LEFT  &kp DOWN  &kp UP   &kp RIGHT
                                &kp LEFT_ALT  &kp LEFT_SHIFT       &trans        &trans
